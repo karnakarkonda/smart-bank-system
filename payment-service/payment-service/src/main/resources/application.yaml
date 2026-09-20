@@ -26,8 +26,8 @@ server:
 
 # Razorpay configurations
 razorpay:
-  key-id: rzp_test_R7XcAWFk8QGDLQ
-  key-secret: 9bGUuWsm1QcfI0NOW0Vys9KW
+  key-id: test123
+  key-secret: test123
   webhook-secret:
 
 management:
